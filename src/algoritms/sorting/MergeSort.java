@@ -1,4 +1,4 @@
-package sorting;
+package algoritms.sorting;
 
 import java.util.Arrays;
 
@@ -55,8 +55,8 @@ public class MergeSort {
 
     public static void main(String[] args) {
         long[] arr = {65, 1, 7, 5, 9, 2, 6, 34, 65, 2, 6, 11, 76, 2, 34, 123, 7, 4};
-        System.out.println("Before sorting: " + Arrays.toString(arr));
+        System.out.println("Before algoritms.sorting: " + Arrays.toString(arr));
         sort(arr);
-        System.out.println("After sorting: " + Arrays.toString(arr));
+        System.out.println("After algoritms.sorting: " + Arrays.toString(arr));
     }
 }
