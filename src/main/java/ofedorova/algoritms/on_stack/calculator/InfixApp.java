@@ -1,4 +1,4 @@
-package algoritms.on_stack.calculator;
+package ofedorova.algoritms.on_stack.calculator;
 
 import java.io.BufferedReader;
 import java.io.IOException;

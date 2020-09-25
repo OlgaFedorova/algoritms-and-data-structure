@@ -1,4 +1,4 @@
-package data_structures.priority_queue;
+package ofedorova.data_structures.priority_queue;
 
 import java.util.Arrays;
 

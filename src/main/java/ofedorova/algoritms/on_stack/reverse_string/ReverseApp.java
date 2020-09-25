@@ -1,4 +1,4 @@
-package algoritms.on_stack.reverse_string;
+package ofedorova.algoritms.on_stack.reverse_string;
 
 import java.io.BufferedReader;
 import java.io.IOException;

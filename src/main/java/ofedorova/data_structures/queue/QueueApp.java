@@ -1,4 +1,4 @@
-package data_structures.queue;
+package ofedorova.data_structures.queue;
 
 public class QueueApp {
 

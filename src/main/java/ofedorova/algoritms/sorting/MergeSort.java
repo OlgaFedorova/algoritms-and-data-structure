@@ -1,4 +1,4 @@
-package algoritms.sorting;
+package ofedorova.algoritms.sorting;
 
 import java.util.Arrays;
 

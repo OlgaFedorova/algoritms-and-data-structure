@@ -1,4 +1,4 @@
-package data_structures.stack;
+package ofedorova.data_structures.stack;
 
 public class StackApp {
 

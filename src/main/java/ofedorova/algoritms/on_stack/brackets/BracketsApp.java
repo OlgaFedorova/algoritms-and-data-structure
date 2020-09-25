@@ -1,4 +1,4 @@
-package algoritms.on_stack.brackets;
+package ofedorova.algoritms.on_stack.brackets;
 
 import java.io.BufferedReader;
 import java.io.IOException;

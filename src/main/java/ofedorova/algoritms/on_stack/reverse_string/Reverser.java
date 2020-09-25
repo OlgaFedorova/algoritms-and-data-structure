@@ -1,6 +1,6 @@
-package algoritms.on_stack.reverse_string;
+package ofedorova.algoritms.on_stack.reverse_string;
 
-import data_structures.stack.Stack;
+import ofedorova.data_structures.stack.Stack;
 
 public class Reverser {
 

@@ -1,6 +1,6 @@
-package algoritms.on_stack.brackets;
+package ofedorova.algoritms.on_stack.brackets;
 
-import data_structures.stack.Stack;
+import ofedorova.data_structures.stack.Stack;
 
 public class Brackets {
 

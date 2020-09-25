@@ -1,6 +1,6 @@
-package algoritms.on_stack.calculator;
+package ofedorova.algoritms.on_stack.calculator;
 
-import data_structures.stack.Stack;
+import ofedorova.data_structures.stack.Stack;
 
 public class InfixToPostfix {
 
